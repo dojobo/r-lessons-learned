@@ -1,0 +1,56 @@
+---
+title: "R Lessons Learned"
+output: 
+  html_notebook:
+    toc: yes
+---
+
+Here are some lessons I've (re)learned recently in consultation with other R users. Once you've googled the same thing several times, you tend to want to make a note of it. And [if you give a data librarian an R notebook, they'll want to post it on GitHub](https://en.wikipedia.org/wiki/If_You_Give_a_Mouse_a_Cookie). Maybe these lessons will help someone else!
+
+## How to fix a dataframe with an unlabelled first column (convert row names into first column)
+
+### Problem
+
+Example:
+
+```{r}
+mtcars
+names(mtcars)
+```
+
+There is no apparent way to reference the cars' model names.
+
+### Solutions
+
+What appears as the "first column" is really the **row names**:
+
+```{r}
+rownames(mtcars)
+```
+
+There are several ways to prepend a column made of the row names.
+
+```{r}
+new_mtcars <- cbind(make_model=rownames(mtcars), data.frame(mtcars, row.names=NULL))
+new_mtcars
+```
+
+Source/more: [https://stackoverflow.com/questions/29511215/convert-row-names-into-first-column](https://stackoverflow.com/questions/29511215/convert-row-names-into-first-column)
+
+## How to remove elements of a ggplot, e.g., axes and tickmarks
+
+Default appearance:
+
+```{r}
+ggplot(data=mtcars, mapping=aes(x=cyl, y=mpg)) +
+  geom_point()
+```
+
+Use `element_blank()` inside of a `theme()` call: (example: remove axis ticks)
+
+```{r}
+ggplot(data=mtcars, mapping=aes(x=cyl, y=mpg)) +
+  geom_point() +
+  theme(axis.ticks=element_blank())
+```
+
