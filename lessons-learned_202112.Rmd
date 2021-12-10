@@ -1,9 +1,11 @@
 ---
 title: "R Lessons Learned"
-output: 
-  html_notebook:
-    toc: yes
+output: github_document
 ---
+
+```{r}
+library(ggplot2)
+```
 
 Here are some lessons I've (re)learned recently in consultation with other R users. Once you've googled the same thing several times, you tend to want to make a note of it. And [if you give a data librarian an R notebook, they'll want to post it on GitHub](https://en.wikipedia.org/wiki/If_You_Give_a_Mouse_a_Cookie). Maybe these lessons will help someone else!
 
