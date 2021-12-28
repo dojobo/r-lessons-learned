@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+---
+title: R and RStudio Open Office Hour for the Pitt community
+layout: default
+---
 
-You can use the [editor on GitHub](https://github.com/dojobo/r-lessons-learned/edit/pages/README.md) to maintain and preview the content for your website in Markdown files.
+When: **Mondays, 5-6pm**, starting January 10 (except 1/17 and 2/21)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Where: Hillman Library, G-74 (Amy Knapp Room; straight back on the Ground Floor)
 
-### Markdown
+Users of R and RStudio are invited to bring their questions to this weekly in-person office hour. Tutoring-style assistance is offered. If we don’t know the answer, we’ll help you look for it! Students, postdocs, faculty, and staff are welcome.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Topics we can help with include:
 
-```markdown
-Syntax highlighted code block
+* general R and RStudio questions; help getting started
+* troubleshooting an error or bug in your code
+* data wrangling, i.e., cleaning and manipulation, using dplyr and tidyr (tidyverse)
+* data exploration and analysis using dplyr (tidyverse)
+* data visualization using ggplot2 (tidyverse)
+* (this is a growing list!)
 
-# Header 1
-## Header 2
-### Header 3
+What you should bring: your laptop and your question/problem.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+This service is provided free of charge for the Pitt community by the [University Library System](https://library.pitt.edu/), Digital Scholarship Services. 
 
-[Link](url) and ![Image](src)
-```
+-------
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## The r-lessons-learned repository
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dojobo/r-lessons-learned/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+An associated code repository accompanies this office hour for future reference. You can access it here: [https://github.com/dojobo/r-lessons-learned/](https://github.com/dojobo/r-lessons-learned/).
