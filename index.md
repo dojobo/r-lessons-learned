@@ -20,7 +20,7 @@ Topics we can help with include:
 
 What you should bring: your laptop and your question/problem.
 
-
+![promotional flier for open office hour](r-open-office-hour_202201.png "flier")
 
 This service is provided free of charge for the Pitt community by the [University Library System](https://library.pitt.edu/), Digital Scholarship Services. 
 
