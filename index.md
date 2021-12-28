@@ -6,7 +6,7 @@ layout: default
 
 When: **Mondays, 5-6pm**, starting January 10 (except 1/17 and 2/21)
 
-Where: Hillman Library, G-74 (Amy Knapp Room; straight back on the Ground Floor)
+Where: **Hillman Library, G-74** (Amy Knapp Room; straight back on the Ground Floor)
 
 Users of R and RStudio are invited to bring their questions to this weekly in-person office hour. Tutoring-style assistance is offered. If we don’t know the answer, we’ll help you look for it! Students, postdocs, faculty, and staff are welcome.
 
@@ -17,13 +17,14 @@ Topics we can help with include:
 * data wrangling, i.e., cleaning and manipulation, using dplyr and tidyr (tidyverse)
 * data exploration and analysis using dplyr (tidyverse)
 * data visualization using ggplot2 (tidyverse)
+* general programming questions/advice as they relate to R
 * (this is a growing list!)
 
 What you should bring: your laptop and your question/problem.
 
 ![promotional flier for open office hour](r-open-office-hour_202201.png "flier")
 
-This service is provided free of charge for the Pitt community by the [University Library System](https://library.pitt.edu/), Digital Scholarship Services. 
+This service is provided free of charge for the Pitt community by the [University Library System](https://library.pitt.edu/), [Digital Scholarship Services](https://library.pitt.edu/digital-scholarship-services/). For questions, contact the Library [here](https://library.pitt.edu/ask-us). 
 
 -------
 
