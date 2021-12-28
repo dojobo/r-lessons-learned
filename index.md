@@ -1,6 +1,6 @@
 ---
 title: R and RStudio Open Office Hour for the Pitt community
-description: ''
+description: ' '
 layout: default
 ---
 
