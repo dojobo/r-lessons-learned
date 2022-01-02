@@ -6,7 +6,7 @@ layout: default
 
 When: **Mondays, 5-6pm**, starting January 10 (except 1/17 and 2/21)
 
-Where: **Hillman Library, G-74** (Amy Knapp Room; straight back on the Ground Floor)
+Where: **Online** through Jan. 26 ([zoom link](https://pitt.zoom.us/j/97200939890)); then Hillman Library, G-74 (Amy Knapp Room; straight back on the Ground Floor)
 
 Users of R and RStudio are invited to bring their questions to this weekly in-person office hour. Tutoring-style assistance is offered. If we don’t know the answer, we’ll help you look for it! Students, postdocs, faculty, and staff are welcome.
 
