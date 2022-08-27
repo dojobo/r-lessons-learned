@@ -1,10 +1,10 @@
 ---
-title: R and RStudio Open Office Hour for the Pitt community
+title: R & RStudio Drop-In Hour for the Pitt community
 description: ' '
 layout: default
 ---
 
-When: **Mondays, 5-6pm**, starting January 10 (except 2/21)
+When: **Tuesdays, 5-6pm**, starting August 30
 
 Where: **Hillman Library, G-74** (Amy Knapp Room; straight back on the Ground Floor). I may also be available on Zoom if no in-person visitors are present ([zoom link](https://pitt.zoom.us/j/97200939890)).  
 
@@ -17,6 +17,7 @@ Topics we can help with include:
 * data wrangling, i.e., cleaning and manipulation, using dplyr and tidyr (tidyverse)
 * data exploration and analysis using dplyr (tidyverse)
 * data visualization using ggplot2 (tidyverse)
+* writing functions and using a functional programming approach
 * general programming questions/advice as they relate to R
 * (this is a growing list!)
 
