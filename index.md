@@ -23,7 +23,7 @@ Topics we can help with include:
 
 What you should bring: your laptop and your question/problem.
 
-![promotional flier for open office hour](r-open-office-hour_202202.png "flier")
+![promotional flier for open office hour](r-drop-in-hour_202208.png "flier")
 
 This service is provided free of charge for the Pitt community by the [University Library System](https://library.pitt.edu/), [Digital Scholarship Services](https://library.pitt.edu/digital-scholarship-services/). For questions, contact the Library [here](https://library.pitt.edu/ask-us). 
 
