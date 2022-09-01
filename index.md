@@ -6,7 +6,7 @@ layout: default
 
 When: **Tuesdays, 5-6pm**, starting August 30
 
-Where: **Hillman Library, G-74** (Amy Knapp Room; straight back on the Ground Floor). I may also be available on Zoom if no in-person visitors are present ([zoom link](https://pitt.zoom.us/j/97200939890)).  
+Where: **Hillman Library, G-74** (Amy Knapp Room; straight back on the Ground Floor). 
 
 Users of R and RStudio are invited to bring their questions to this weekly in-person office hour. Tutoring-style assistance is offered. If we don’t know the answer, we’ll help you look for it! Students, postdocs, faculty, and staff are welcome.
 
