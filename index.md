@@ -4,7 +4,7 @@ description: ' '
 layout: default
 ---
 
-When: **Tuesdays, 5&ndash;6pm**, January&ndash;April
+When: **Tuesdays, 4:30&ndash;5:30pm**, Aug. 29&ndash;Dec. 5
 
 Where: **Hillman Library, Rm. 255**. How to find it: turn left out of the elevator, then right. Walk towards the dark gray door, with the frosted glass on your right. Rm. 255 will be on your left.  
 
@@ -12,12 +12,13 @@ Users of R and RStudio are invited to bring their questions to this weekly, in-p
 
 Example topics we have assisted participants with:
 
-* base R (working with vectors, writing functions)
-* importing (e.g., from CSV) and cleaning data
-* using tidyverse to examine and filter data
-* plotting using ggplot2
-* troubleshooting error messages
-* figuring out a workaround to a non-functional package
+* base R (working with vectors, writing functions) 
+* importing (e.g., from CSV) and cleaning data 
+* table pivots and joins 
+* determining and plotting an appropriate visualization of data 
+* troubleshooting error messages 
+* application of a statistical method in the R setting 
+* figuring out a workaround to a non-functional package 
 
 What you should bring: your laptop and your question/problem.
 
